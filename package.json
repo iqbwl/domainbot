@@ -4,6 +4,7 @@
   "description": "Telegram bot for monitoring domain expiration, whois data, and alert notifications",
   "type": "module",
   "main": "index.js",
+  "license": "MIT",
   "scripts": {
     "start": "node index.js",
     "import": "node import.js"
